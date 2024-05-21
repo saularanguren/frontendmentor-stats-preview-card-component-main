@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge. [Stats Preview Card Main]() 🚀
+Thanks for checking out this front-end coding challenge. [Stats Preview Card Main](https://frontendmentor-stats-preview-card-git.netlify.app/) 🚀
 
 **This challenge was developed with HTML, TailwindCSS, Vite and JavaScript.**
 
