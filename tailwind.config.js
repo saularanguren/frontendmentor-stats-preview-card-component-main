@@ -7,7 +7,6 @@ export default {
     colors: {
       'dark-navy-blue': '#0A0C1C',
       'midnight-blue': '#1B1937',
-      'violet-effect': 'rgba(171, 92, 219, 0.7511)',
       'violet-light': '#AB5CDB',
       'white': '#ffffff',
       'white-paragraph': 'rgba(255, 255, 255, 0.75)',
@@ -61,9 +60,6 @@ export default {
       margin: {
         '25': '1.5625rem',
       },
-      gap: {
-        '25': '1.5625rem',
-      }
     },
   },
   plugins: [],
